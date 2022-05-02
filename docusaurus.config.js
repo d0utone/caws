@@ -11,7 +11,7 @@ module.exports = {
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
-  organizationName: "d0utone/caws", // Usually your GitHub org/user name.
+  organizationName: "d0utone/caws",
   projectName: "caws",
 
   presets: [
