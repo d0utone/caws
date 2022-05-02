@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkkranvc=self.webpackChunkkranvc||[]).push([[193],{1669:function(a){a.exports=JSON.parse('{"allTagsPath":"/caws/blog/tags","slug":"/caws/blog/tags/template","name":"template","count":1,"permalink":"/caws/blog/tags/template"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkranvc=self.webpackChunkkranvc||[]).push([[494],{4197:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/template","name":"template","count":1,"permalink":"/blog/tags/template"}')}}]);
