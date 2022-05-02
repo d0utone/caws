@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>CAWS Blog</title>
+        <link>https://caws.io/blog</link>
+        <description>CAWS Blog</description>
+        <lastBuildDate>Mon, 02 May 2022 15:54:42 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Template Blog Post]]></title>
+            <link>https://caws.io/blog/template-blog-post</link>
+            <guid>template-blog-post</guid>
+            <pubDate>Mon, 02 May 2022 15:54:42 GMT</pubDate>
+            <description><![CDATA[This is the abstracts]]></description>
+        </item>
+    </channel>
+</rss>
