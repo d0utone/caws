@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkranvc=self.webpackChunkkranvc||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Template Blog Post","permalink":"/caws/blog/template-blog-post"}]}')}}]);

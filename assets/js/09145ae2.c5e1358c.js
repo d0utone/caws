@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkranvc=self.webpackChunkkranvc||[]).push([[350],{4214:function(e){e.exports=JSON.parse('{"permalink":"/caws/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
