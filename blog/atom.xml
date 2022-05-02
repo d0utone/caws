@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://d0utone.github.io/caws/blog</id>
+    <id>https://caws.io/blog</id>
     <title>CAWS Blog</title>
-    <updated>2022-05-02T16:21:28.972Z</updated>
+    <updated>2022-05-02T18:37:50.119Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://d0utone.github.io/caws/blog"/>
+    <link rel="alternate" href="https://caws.io/blog"/>
     <subtitle>CAWS Blog</subtitle>
-    <icon>https://d0utone.github.io/caws/img/favicon.ico</icon>
+    <icon>https://caws.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Template Blog Post]]></title>
         <id>template-blog-post</id>
-        <link href="https://d0utone.github.io/caws/blog/template-blog-post"/>
-        <updated>2022-05-02T16:21:28.972Z</updated>
+        <link href="https://caws.io/blog/template-blog-post"/>
+        <updated>2022-05-02T18:37:50.119Z</updated>
         <summary type="html"><![CDATA[This is the abstracts]]></summary>
         <author>
             <name>Can</name>
