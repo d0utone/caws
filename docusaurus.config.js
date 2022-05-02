@@ -7,7 +7,7 @@ module.exports = {
   title: "CAWS",
   tagline: "Cool Awesome Web Stuff",
   url: "https://caws.io",
-  baseUrl: "/",
+  baseUrl: "/caws/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
