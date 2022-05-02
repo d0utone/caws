@@ -6,8 +6,8 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 module.exports = {
   title: "CAWS",
   tagline: "Cool Awesome Web Stuff",
-  url: "https://d0utone.github.io/caws",
-  baseUrl: "/",
+  url: "https://d0utone.github.io/",
+  baseUrl: "/caws/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
