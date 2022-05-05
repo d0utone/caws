@@ -44,7 +44,7 @@ module.exports = {
           alt: "CAWS Logo",
           src: "/img/logo-light.svg",
         },
-        items: [],
+        items: [{ to: "/blog", label: "Blog", position: "left" }],
       },
       footer: {
         style: "dark",
