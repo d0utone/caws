@@ -4,14 +4,14 @@
         <title>CAWS Blog</title>
         <link>https://caws.io/blog</link>
         <description>CAWS Blog</description>
-        <lastBuildDate>Thu, 05 May 2022 21:58:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2022 22:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[Template Blog Post]]></title>
             <link>https://caws.io/blog/template-blog-post</link>
             <guid>template-blog-post</guid>
-            <pubDate>Thu, 05 May 2022 21:58:28 GMT</pubDate>
+            <pubDate>Thu, 05 May 2022 22:00:00 GMT</pubDate>
             <description><![CDATA[This is the abstracts]]></description>
         </item>
     </channel>
