@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkkranvc=self.webpackChunkkranvc||[]).push([[121],{8070:function(c){c.exports=[]}}]);
