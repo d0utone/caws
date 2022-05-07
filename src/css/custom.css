@@ -31,3 +31,10 @@ html[data-theme="light"] .navbar__logo {
   -webkit-filter: invert(80%);
   filter: invert(80%);
 }
+
+@media screen and (max-width: 996px) {
+  .navbar__title {
+    padding-right: 10px;
+    padding-left: 5px;
+  }
+}
