@@ -19,7 +19,7 @@ jobs:
       - name: Install dependencies
         run: yarn install --frozen-lockfile
       - name: Build Docusaurus
-        run: yarn build
+        run: yarn build && cp CNAME ./build
 
       # Popular action to deploy to GitHub Pages:
       - name: Deploy to GitHub Pages
